@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hello
 
-<!--
-**SapoPretoDaChuva/SapoPretoDaChuva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✨ Github Stats ✨
+<center>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+      <td><img width="360px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SapoPretoDaChuva&hide=html&layout=compact&theme=dracula&langs_count=10" /></td>
+      <td><img width="410px" align="left" src="https://github-readme-stats.vercel.app/api?username=SapoPretoDaChuva&theme=dracula&show_icons=true" /></td>
+  </tr>  
+</table>
+</center>
 
-Here are some ideas to get you started:
+### 👍 LIKES 👍
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* ☢ Chemistry (Química)
+* ⌨ Programming (Programação)
+* ⌨ Hacking
+* 🔢 Numbers in general
+### Contacts / Contatos
+
+* Site: https://rataria.com
+* TwitchTV: https://twitch.tv/SapoPretoDaChuva
+* Twitter: [https://www.https://twitter.com/Sapo0000DaChuva](https://twitter.com/Sapo0000DaChuva)
