@@ -13,9 +13,10 @@
 ### 👍 LIKES 👍
 
 * ☢ Chemistry (Química)
+* 🔢 Numbers in general
 * ⌨ Programming (Programação)
 * ⌨ Hacking
-* 🔢 Numbers in general
+
 ### Contacts / Contatos
 
 * Site: https://rataria.com
